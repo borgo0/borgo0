@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá! Eu sou o Pedro Borgo 🤙
 
-<!--
-**borgo0/borgo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![borgo0 GitHub stats](https://github-readme-stats.vercel.app/api?username=borgo0&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conhecimentos Basicos:
+INTERNET DAS COISAS <br/>
+SISTEMA OPERACIONAL E REDES <br/>
+ANÁLISE E QUALIDADE DE SOFTWARE<br/>
+DESENVOLVIMENTO DE SISTEMAS WEB III <br/>
+DESENVOLVIMENTO DE SISTEMAS WEB II <br/>
+DESENVOLVIMENTO DE SISTEMAS WEB I <br/>
+DESENVOLVIMENTO DE APLICATIVOS II <br/>
+DESENVOLVIMENTO DE APLICATIVOS I <br/>
